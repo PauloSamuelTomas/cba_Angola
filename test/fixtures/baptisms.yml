@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member: MyString
+  date: 2026-08-02
+  location: MyString
+  pastor: MyString
+
+two:
+  member: MyString
+  date: 2026-08-02
+  location: MyString
+  pastor: MyString
