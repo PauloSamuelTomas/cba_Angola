@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "~> 8.1.3"
+gem "rails", "~> 8.1.4"
 
 # Base de Dados
 gem "sqlite3", ">= 2.1"
